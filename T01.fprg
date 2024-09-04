@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="swast"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:06 PM"/>
+        <attribute name="created" value="c3dhc3Q7U1dBU1RJU0lIT01CSU5HOzIwMjQtMDktMDQ7MDg6MDc6NTYgUE07MzAwMA=="/>
+        <attribute name="edited" value="c3dhc3Q7U1dBU1RJU0lIT01CSU5HOzIwMjQtMDktMDQ7MDk6MTA6MDYgUE07MTszMDk4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="namalengkap" type="String" array="False" size=""/>
+            <input variable="namalengkap"/>
+            <output expression="namalengkap" newline="True"/>
+            <declare name="" type="Integer" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
